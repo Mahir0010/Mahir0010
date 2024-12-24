@@ -1,13 +1,13 @@
  <h1 align="center">Hi 👋, I'm Mahir Dasare</h1>
-<h3 align="center">A passionate Cloud Engineer from India</h3>
+<h3 align="center">A passionate DevOps and Cloud Engineer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/flyinghigh333" target="blank"><img src="https://img.shields.io/twitter/follow/flyinghigh333?logo=twitter&style=for-the-badge" alt="flyinghigh333" /></a> </p>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **New Tools**
 
 - 🤝 I’m looking for help with **collaboration**
 
-- 💬 Ask me about **Linux,Ubuntu,OpenSUSE,Rhel**
+- 💬 Ask me about **Linux,Ubuntu,OpenSUSE,Rhel,Cloud**
 
 - 📫 How to reach me **dasaremahir333@gmail.com**
 
