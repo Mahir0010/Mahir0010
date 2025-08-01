@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Mahir Dasare</h1>
-<h3 align="center">A passionate DevOps and Cloud Engineer from India</h3>
+<h3 align="center">DevOps and Cloud Engineer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/flyinghigh333" target="blank"><img src="https://img.shields.io/twitter/follow/flyinghigh333?logo=twitter&style=for-the-badge" alt="flyinghigh333" /></a> </p>
 
@@ -7,9 +7,20 @@
 
 - 🤝 I’m looking for help with **collaboration**
 
-- 💬 Ask me about **Linux,Ubuntu,OpenSUSE,Rhel,Cloud,Python,K8S,Docker**
+- 💬 Key Skills **
+• Platform: Linux
+• Languages: Python
+• VersionControl: Git, GitHub
+• IAC Tool: Terraform, Ansible
+• Containerization: Docker, Kubernetes
+• Database Fundamentals: MongoDB, MySQL
+• Cloud Services: ELB, EC2, EBS, AMI, SNS, Route53, S3, RDS, Cloud Watch,IAM, SG,EFS, EIP, VPC, Auto 
+Scaling
+• Ticketing Tools: Jira, ServiceNow
+• CI/CD: Jenkins
+• Soft Skills: Problem Solving, Communication, Work Ethic, Time Managemen**
 
-- 📫 How to reach me **dasaremahir333@gmail.com**
+- 📫 How to reach me **dasaremahir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
