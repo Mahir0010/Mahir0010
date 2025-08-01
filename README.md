@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/flyinghigh333" target="blank"><img src="https://img.shields.io/twitter/follow/flyinghigh333?logo=twitter&style=for-the-badge" alt="flyinghigh333" /></a> </p>
 
-- 🌱 I’m currently learning **New Tools**
-
-- 🤝 I’m looking for help with **collaboration**
-
 - 💬 Key Skills **Platform: Linux
 • Languages: Python
 • VersionControl: Git, GitHub
