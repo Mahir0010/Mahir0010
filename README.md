@@ -7,8 +7,7 @@
 
 - 🤝 I’m looking for help with **collaboration**
 
-- 💬 Key Skills **
-• Platform: Linux
+- 💬 Key Skills **Platform: Linux
 • Languages: Python
 • VersionControl: Git, GitHub
 • IAC Tool: Terraform, Ansible
